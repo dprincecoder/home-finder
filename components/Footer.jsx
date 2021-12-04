@@ -7,7 +7,7 @@ const Footer = () => (
 		color="gray.600"
 		borderTop="1px"
 		borderColor="gray.100">
-		© 2021 Home Finder, Inc.
+		© 2021 Home Finder, Inc. created with <b style={{color: "red"}}>&hearts;</b> by dprincecoder.
 	</Box>
 );
 
