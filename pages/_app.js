@@ -26,6 +26,7 @@ function MyApp({ Component, pageProps }) {
 					crossOrigin="anonymous"
 					referrerPolicy="no-referrer"
 				/>
+		<script data-ad-client="ca-pub-3510205816515468" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 			</Head>
 			<ChakraProvider>
 				<Layout>
